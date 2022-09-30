@@ -1,8 +1,9 @@
 #Ignore all
 *
+**/mtb_shared
 !.gitignore
 
 #Allow folder
 !**/
 !**/**/deps/*
-!**/**/*
+!**/**/
