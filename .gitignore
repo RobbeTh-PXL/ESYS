@@ -1,5 +1,5 @@
 # Ignore everything:
-*
+/*
 
 # Except for the export directories:
 !./*/Exported/
