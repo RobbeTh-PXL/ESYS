@@ -3,4 +3,5 @@
 !.gitignore
 
 #Allow folder
+!**/
 !**/**/deps/*
