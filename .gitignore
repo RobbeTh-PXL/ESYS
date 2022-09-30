@@ -1,7 +1,0 @@
-#Ignore all
-*
-!.gitignore
-
-#Allow folder
-!**/**/
-!**/**/deps/*
