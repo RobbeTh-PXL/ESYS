@@ -4,5 +4,5 @@
 !*/
 
 # Recursively allow files under subtree
-!/**/**/deps/*
+!/**/**/deps/**
 !.gitignore 
